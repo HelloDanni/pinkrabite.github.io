@@ -1,0 +1,47 @@
+
+.section {
+  width: 100%;
+  min-width: 300px;
+  min-height: 100vh;
+  padding: 80px 20px;
+  background-color: #A2DED0;
+}
+
+.navbar {
+  background-color: #E74C3C;
+  border: none;
+}
+
+.navbar a {
+  color: #1C2A39 !important;
+}
+
+h1 {
+  color: #1C2A39;
+}
+
+#about {
+  margin-top: 50px;
+}
+
+#about img {
+  border-radius: 100%;
+}
+
+#about hr {
+  border-width: 2px;
+  border-color: #1C2A39;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.fa {
+  color: #1C2A39;
+}
+
+
+#projects {
+  background-color: #e74c3c;
+}
+
+
