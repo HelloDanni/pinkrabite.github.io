@@ -9,11 +9,17 @@
 
 .navbar {
   background-color: #E74C3C;
-  border: none;
+  box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-color:#592059;
 }
 
 .navbar a {
   color: #1C2A39 !important;
+  font-weight: bold;
+}
+
+.navbar li:hover { 
+    background-color: #A2DED0;
 }
 
 h1 {
